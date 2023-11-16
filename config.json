@@ -1,0 +1,14 @@
+{
+    "objects":{
+        "object1":{
+            "id":"1",
+            "description":"przykładowy opis obiektu 1",
+            "value":"123"
+        },
+        "object2":{
+            "id":"2",
+            "description":"Autor projektu",
+            "value":"Jakub Stawski"
+        }
+    }
+}
